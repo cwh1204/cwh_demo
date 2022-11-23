@@ -79,4 +79,4 @@
 格式：\!\[图片名\]\(图片地址地址 \"图片标题\"\) <br>
 注意：本地图片要生成url后才能使用 <br>
 
-![aa.png](https://postimg.cc/zLYQfYYF "随便的截图")
+![aa.png](https://i.postimg.cc/yNDCv7ft/aa.png "随便的截图")
