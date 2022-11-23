@@ -54,21 +54,21 @@
 
 这是代码块 <br>
 
-...
+```
 	c
 		#include <stdio.h>
 		int main()
 		{
 			return 0;
 		}
-...
+```
 
-...
+```
 	python
 		import os
-...
+```
 
-...
+```
 	bash
 		echo "echo nothing"
-...
+```
