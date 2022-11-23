@@ -47,3 +47,28 @@
 		1. POSIX队列
 2. 数据库基础
 
+这是表格 <br>
+编号|游戏名称|销量|价格
+---|:--:|:--:|---:
+1|刺客信条|100|299￥
+
+这是代码块 <br>
+
+'''
+	c
+		#include <stdio.h>
+		int main()
+		{
+			return 0;
+		}
+'''
+
+'''
+	python
+		import os
+'''
+
+'''
+	bash
+		echo "echo nothing"
+'''
