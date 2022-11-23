@@ -54,8 +54,7 @@
 
 这是代码块 <br>
 
-```
-	c
+```c
 		#include <stdio.h>
 		int main()
 		{
@@ -63,12 +62,10 @@
 		}
 ```
 
-```
-	python
+```python
 		import os
 ```
 
-```
-	bash
+```bash
 		echo "echo nothing"
 ```
