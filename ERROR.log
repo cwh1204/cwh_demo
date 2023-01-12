@@ -1,0 +1,96 @@
+2020-01-22 06:02:06.940 794-29400   E ResolverController: No valid NAT64 prefix (118, <unspecified> 0)
+2020-01-22 06:02:11.756 838-31771   E libc: Access denied finding property "ro.camera.req.fmq.size"
+2020-01-22 06:02:11.757 838-31771   E libc: Access denied finding property "ro.camera.res.fmq.size"
+2020-01-22 06:02:11.804 838-1444   E CamX: [ERROR][PPROC  ] camxipenode.cpp:3598 GetEISMargin() No margin for stabilization type 0
+2020-01-22 06:02:11.804 838-1444   E CamX: [ERROR][PPROC  ] camxipenode.cpp:3598 GetEISMargin() No margin for stabilization type 0
+2020-01-22 06:02:11.804 838-1444   E CamX: [ERROR][PPROC  ] camxipenode.cpp:3598 GetEISMargin() No margin for stabilization type 0
+2020-01-22 06:02:11.859 838-1444   E CamX: [ERROR][PPROC  ] camxipenode.cpp:3598 GetEISMargin() No margin for stabilization type 0
+2020-01-22 06:02:11.859 838-1444   E CamX: [ERROR][PPROC  ] camxipenode.cpp:3598 GetEISMargin() No margin for stabilization type 0
+2020-01-22 06:02:11.859 838-1444   E CamX: [ERROR][PPROC  ] camxipenode.cpp:3598 GetEISMargin() No margin for stabilization type 0
+2020-01-22 06:02:11.859 838-1444   E CamX: [ERROR][PPROC  ] camxipenode.cpp:3598 GetEISMargin() No margin for stabilization type 0
+2020-01-22 06:02:11.876 838-1444   E CamX: [ERROR][HAL    ] camxmetadatapool.cpp:1556 SetMetadataByTag() Invalid slot; cannot set metadata tag 80090003
+2020-01-22 06:02:11.876 838-1444   E CamX: [ERROR][HAL    ] camxmetadatapool.cpp:1720 PublishMetadataList() Invalid slot, cannot publish metadata list
+2020-01-22 06:02:11.934 838-1444   E CamX: [ERROR][SENSOR ] camxsensornode.cpp:2174 LoadPDlibrary() PD library CreateLib failure result=0, m_pPDLib=0x7d44b54ec0
+2020-01-22 06:02:11.937 838-1444   E INFO: [ERROR][CORE   ] camxnode.cpp:4702 CreateBufferManagers() invalid type streamConfig 
+2020-01-22 06:02:12.042 838-1444   E CamX: [ERROR][CORE   ] camxnode.cpp:4702 CreateBufferManagers() invalid type streamConfig 
+2020-01-22 06:02:12.049 838-1444   E INFO: [ERROR][STATS_AF] camxcaecstatsprocessor.cpp:3392 ReadTuningModeParameter() PropertyIDUsecaseChiTuningModeParameter is not published!
+2020-01-22 06:02:12.052 838-1444   E CamX: [ERROR][STATS_AEC] aec_set.cpp:2692: aec_set_param Aec_Error: Sensor Config input is wrong
+2020-01-22 06:02:12.052 838-1444   E CHIUSECASE: [ERROR][STATS_AEC] aec_led_calibration.cpp:560: aec_led_cal_apply_calibration Invalid pointer 0x7d3c0ff340 0x0
+2020-01-22 06:02:12.052 838-1444   E CamX: [ERROR][STATS_AEC] aec_set.cpp:1350: aec_set_fps_range Aec_Error invalid input 417 
+2020-01-22 06:02:12.052 838-1444   E CHIUSECASE: [ERROR][STATS_AEC] aec_set.cpp:225: aec_calculate_sensitivity Set sensor configuration has not been set
+2020-01-22 06:02:12.052 838-1444   E CamX: [ERROR][STATS_AEC] aec_set.cpp:225: aec_calculate_sensitivity Set sensor configuration has not been set
+2020-01-22 06:02:12.052 838-1444   E CamX: [ERROR][STATS  ] gcamfastaeutil.cpp:1154 SetTuningData() [FastAE] ERROR! Failed to get the tuning data
+2020-01-22 06:02:12.052 838-1444   E CHIUSECASE: [ERROR][HAL    ] camxmetadatapool.cpp:1397 GetMetadataByTag() Invalid Slot to get a metadata from
+2020-01-22 06:02:12.052 838-1444   E CamX: [ERROR][HAL    ] camxmetadatapool.cpp:1397 GetMetadataByTag() Invalid Slot to get a metadata from
+2020-01-22 06:02:12.052 838-1444   E CamX: [ERROR][STATS_AEC] aec_led_calibration.cpp:560: aec_led_cal_apply_calibration Invalid pointer 0x7d3c0ff340 0x0
+2020-01-22 06:02:12.052 838-1444   E CHIUSECASE: [ERROR][STATS_AEC] aec_set.cpp:1350: aec_set_fps_range Aec_Error invalid input 417 
+2020-01-22 06:02:12.052 838-1444   E INFO: [ERROR][HAL    ] camxmetadatapool.cpp:1397 GetMetadataByTag() Invalid Slot to get a metadata from
+2020-01-22 06:02:12.053 838-1444   E CamX: [ERROR][HAL    ] camxmetadatapool.cpp:1397 GetMetadataByTag() Invalid Slot to get a metadata from
+2020-01-22 06:02:12.061 838-1444   E GoogTuning: Error! Unsupported tuning mode (usecase: 65535, sensorMode: 65535) - using the default tuning header instead
+2020-01-22 06:02:12.077 838-1444   E CamX: [ERROR][HAL    ] camxmetadatapool.cpp:1397 GetMetadataByTag() Invalid Slot to get a metadata from
+2020-01-22 06:02:12.083 838-1439   E CHIUSECASE: [ERROR][STATS_AF] pdlib_lcr_utils.cpp:136 pdaf_lcr_get_vertical_blocks() Cound not find a good partition, set mega_block_y = 1
+2020-01-22 06:02:12.116 838-1444   E CamX: [ERROR][HAL    ] camxsession.cpp:3537 GetIntraRealtimePipelineId() Less than two realtime pipelines, no intra result
+2020-01-22 06:02:12.116 838-1444   E CamX: [ERROR][STATS_AF] camxcafioutil.cpp:378 ReadTuningModeParameter() PropertyIDUsecaseChiTuningModeParameter is not published!
+2020-01-22 06:02:12.118 838-1444   E GoogTuning: Error! Unsupported tuning mode (usecase: 65535, sensorMode: 65535) - using the default tuning header instead
+2020-01-22 06:02:12.118 838-1444   E CamX: [ERROR][HAL    ] camxmetadatapool.cpp:1397 GetMetadataByTag() Invalid Slot to get a metadata from
+2020-01-22 06:02:12.265 838-1444   E CamX: [ERROR][HAL    ] camxmetadatapool.cpp:1397 GetMetadataByTag() Invalid Slot to get a metadata from
+2020-01-22 06:02:12.280 838-1444   E CamX: [ERROR][ISP    ] camxnode.cpp:2606 GetSensorModeData() currentMode beyond the MaxSensorModes : 65539
+2020-01-22 06:02:12.280 838-1444   E CamX: [ERROR][CORE   ] camxnode.cpp:4686 CreateBufferManagers() no StreamConfig 
+2020-01-22 06:02:12.280 838-1444   E CamX: [ERROR][ISP    ] camxnode.cpp:2606 GetSensorModeData() currentMode beyond the MaxSensorModes : 65539
+2020-01-22 06:02:12.280 838-1444   E CHIUSECASE: [ERROR][CORE   ] camxnode.cpp:4686 CreateBufferManagers() no StreamConfig 
+2020-01-22 06:02:12.292 838-1444   E CamX: [ERROR][ISP    ] camxnode.cpp:2606 GetSensorModeData() currentMode beyond the MaxSensorModes : 65539
+2020-01-22 06:02:12.292 838-1444   E CamX: [ERROR][CORE   ] camxnode.cpp:4686 CreateBufferManagers() no StreamConfig 
+2020-01-22 06:02:12.293 838-1444   E CHIUSECASE: [ERROR][ISP    ] camxnode.cpp:2606 GetSensorModeData() currentMode beyond the MaxSensorModes : 65539
+2020-01-22 06:02:12.293 838-1444   E CamX: [ERROR][CORE   ] camxnode.cpp:4686 CreateBufferManagers() no StreamConfig 
+2020-01-22 06:02:12.306 838-1444   E CHIUSECASE: [ERROR][ISP    ] camxnode.cpp:2606 GetSensorModeData() currentMode beyond the MaxSensorModes : 65539
+2020-01-22 06:02:12.306 838-1444   E CamX: [ERROR][CORE   ] camxnode.cpp:4686 CreateBufferManagers() no StreamConfig 
+2020-01-22 06:02:12.309 838-1444   E CamX: [ERROR][ISP    ] camxnode.cpp:2606 GetSensorModeData() currentMode beyond the MaxSensorModes : 65539
+2020-01-22 06:02:12.309 838-1444   E CamX: [ERROR][CORE   ] camxnode.cpp:4686 CreateBufferManagers() no StreamConfig 
+2020-01-22 06:02:12.309 838-1444   E CamX: [ERROR][ISP    ] camxnode.cpp:2606 GetSensorModeData() currentMode beyond the MaxSensorModes : 65539
+2020-01-22 06:02:12.309 838-1444   E CHIUSECASE: [ERROR][CORE   ] camxnode.cpp:4686 CreateBufferManagers() no StreamConfig 
+2020-01-22 06:02:12.311 838-1444   E CamX: [ERROR][ISP    ] camxnode.cpp:2606 GetSensorModeData() currentMode beyond the MaxSensorModes : 65539
+2020-01-22 06:02:12.311 838-1444   E CamX: [ERROR][CORE   ] camxnode.cpp:4686 CreateBufferManagers() no StreamConfig 
+2020-01-22 06:02:12.311 838-1444   E CHIUSECASE: [ERROR][ISP    ] camxnode.cpp:2606 GetSensorModeData() currentMode beyond the MaxSensorModes : 65539
+2020-01-22 06:02:12.311 838-1444   E CamX: [ERROR][CORE   ] camxnode.cpp:4686 CreateBufferManagers() no StreamConfig 
+2020-01-22 06:02:12.311 838-1444   E CamX: [ERROR][ISP    ] camxnode.cpp:2606 GetSensorModeData() currentMode beyond the MaxSensorModes : 65539
+2020-01-22 06:02:12.311 838-1444   E CamX: [ERROR][CORE   ] camxnode.cpp:4686 CreateBufferManagers() no StreamConfig 
+2020-01-22 06:02:12.347 838-1444   E CamX: [ERROR][ISP    ] camxnode.cpp:2606 GetSensorModeData() currentMode beyond the MaxSensorModes : 65539
+2020-01-22 06:02:12.347 838-1444   E CamX: [ERROR][CORE   ] camxnode.cpp:4686 CreateBufferManagers() no StreamConfig 
+2020-01-22 06:02:12.350 838-1444   E CamX: [ERROR][ISP    ] camxnode.cpp:2606 GetSensorModeData() currentMode beyond the MaxSensorModes : 65539
+2020-01-22 06:02:12.351 838-1444   E CamX: [ERROR][CORE   ] camxnode.cpp:4686 CreateBufferManagers() no StreamConfig 
+2020-01-22 06:02:12.352 838-1444   E CamX: [ERROR][ISP    ] camxnode.cpp:2606 GetSensorModeData() currentMode beyond the MaxSensorModes : 65539
+2020-01-22 06:02:12.352 838-1444   E CamX: [ERROR][CORE   ] camxnode.cpp:4686 CreateBufferManagers() no StreamConfig 
+2020-01-22 06:02:12.433 838-1444   E CamX: [ERROR][HAL    ] camxmetadatapool.cpp:1397 GetMetadataByTag() Invalid Slot to get a metadata from
+2020-01-22 06:02:12.433 838-1444   E CHIUSECASE: [ERROR][PPROC  ] camxbpsnode.cpp:792 GetSensorModeData() Mode index vendor tag not provided! Using default 0!
+2020-01-22 06:02:12.433 838-1444   E CamX: [ERROR][HAL    ] camxmetadatapool.cpp:1397 GetMetadataByTag() Invalid Slot to get a metadata from
+2020-01-22 06:02:12.433 838-1444   E CamX: [ERROR][PPROC  ] camxbpsnode.cpp:792 GetSensorModeData() Mode index vendor tag not provided! Using default 0!
+2020-01-22 06:02:12.536 838-1089   E CamX: [ERROR][HAL    ] camxmetadatapool.cpp:1556 SetMetadataByTag() Invalid slot; cannot set metadata tag 80210000
+2020-01-22 06:02:12.536 838-1089   E CHIUSECASE: [ERROR][HAL    ] camxmetadatapool.cpp:1720 PublishMetadataList() Invalid slot, cannot publish metadata list
+2020-01-22 06:02:12.569 838-1089   E CamX: [ERROR][HAL    ] camxmetadatapool.cpp:1556 SetMetadataByTag() Invalid slot; cannot set metadata tag 80210000
+2020-01-22 06:02:12.569 838-1089   E CamX: [ERROR][HAL    ] camxmetadatapool.cpp:1720 PublishMetadataList() Invalid slot, cannot publish metadata list
+2020-01-22 06:02:12.602 838-1089   E CamX: [ERROR][HAL    ] camxmetadatapool.cpp:1556 SetMetadataByTag() Invalid slot; cannot set metadata tag 80210000
+2020-01-22 06:02:12.603 838-1089   E CHIUSECASE: [ERROR][HAL    ] camxmetadatapool.cpp:1720 PublishMetadataList() Invalid slot, cannot publish metadata list
+2020-01-22 06:02:12.613 838-1439   E CamX: [ERROR][STATS_AF] camxcafioutil.cpp:988 ReadAECInput() PropertyIDAECInternal null data
+2020-01-22 06:02:12.613 838-1439   E INFO: [ERROR][STATS_AF] camxcafioutil.cpp:1015 ReadAECInput() PropertyIDAECFrameInfo null data
+2020-01-22 06:02:12.614 838-1436   E CamX: [ERROR][STATS  ] camxcaecstatsprocessor.cpp:3347 ProcessRequestFastAE() [FastAE] Failed to apply gain to the stats!
+2020-01-22 06:02:12.614 838-1436   E CHIUSECASE: [ERROR][STATS_AEC] aec_process.cpp:1229: aec_process_stats_parsing aec is null or invalid
+2020-01-22 06:02:12.614 838-1436   E CamX: [ERROR][STATS_AEC] aec_process.cpp:7983: aec_process_preview_and_video Error: invalid stats
+2020-01-22 06:02:12.623 838-1436   E CamX: [ERROR][STATS  ] camxcaecstatsprocessor.cpp:3347 ProcessRequestFastAE() [FastAE] Failed to apply gain to the stats!
+2020-01-22 06:02:12.623 838-1436   E CamX: [ERROR][STATS_AEC] aec_process.cpp:1229: aec_process_stats_parsing aec is null or invalid
+2020-01-22 06:02:12.625 838-1436   E CamX: [ERROR][STATS_AEC] aec_process.cpp:7983: aec_process_preview_and_video Error: invalid stats
+2020-01-22 06:02:12.635 838-1438   E INFO: [ERROR][STATS_AEC] camxcaecstatsprocessor.cpp:1745 SetAlgoBayerHistValue() Unsupported bayer hist channel!
+2020-01-22 06:02:12.635 838-1438   E CHIUSECASE: [ERROR][STATS  ] camxcaecstatsprocessor.cpp:3347 ProcessRequestFastAE() [FastAE] Failed to apply gain to the stats!
+2020-01-22 06:02:12.636 838-1089   E INFO: [ERROR][HAL    ] camxmetadatapool.cpp:1556 SetMetadataByTag() Invalid slot; cannot set metadata tag 80210000
+2020-01-22 06:02:12.636 838-1089   E INFO: [ERROR][HAL    ] camxmetadatapool.cpp:1720 PublishMetadataList() Invalid slot, cannot publish metadata list
+2020-01-22 06:02:12.636 838-1438   E INFO: [ERROR][STATS_AEC] aec_process.cpp:1229: aec_process_stats_parsing aec is null or invalid
+2020-01-22 06:02:12.637 838-1438   E INFO: [ERROR][STATS_AEC] aec_process.cpp:7983: aec_process_preview_and_video Error: invalid stats
+2020-01-22 06:02:12.644 838-1438   E INFO: [ERROR][STATS  ] camxcaecstatsprocessor.cpp:3347 ProcessRequestFastAE() [FastAE] Failed to apply gain to the stats!
+2020-01-22 06:02:12.644 838-1438   E CHIUSECASE: [ERROR][STATS_AEC] aec_process.cpp:1229: aec_process_stats_parsing aec is null or invalid
+2020-01-22 06:02:12.644 838-1438   E INFO: [ERROR][STATS_AEC] aec_process.cpp:7983: aec_process_preview_and_video Error: invalid stats
+2020-01-22 06:02:12.669 838-1089   E INFO: [ERROR][HAL    ] camxmetadatapool.cpp:1556 SetMetadataByTag() Invalid slot; cannot set metadata tag 80210000
+2020-01-22 06:02:12.669 838-1089   E INFO: [ERROR][HAL    ] camxmetadatapool.cpp:1720 PublishMetadataList() Invalid slot, cannot publish metadata list
+2020-01-22 06:02:12.737 838-1440   E INFO: [ERROR][CORE   ] camxnode.cpp:2267 GetDataCountFromPipeline() Attempting to get metadata count for tag a0550005 when unpublished
+2020-01-22 06:02:12.741 838-1437   E CamX: [ERROR][STATS_AFD] afd_process.cpp:1533: afd_process_algo_run stats=0x7d4c4d80f8, bg_stats=0x7d4c4d8338, rowSumTime=0.000000
+2020-01-22 06:02:12.770 838-1089   E CamX: [ERROR][HAL    ] camxmetadatapool.cpp:1556 SetMetadataByTag() Invalid slot; cannot set metadata tag 80210000
+2020-01-22 06:02:12.770 838-1089   E CamX: [ERROR][HAL    ] camxmetadatapool.cpp:1720 PublishMetadataList() Invalid slot, cannot publish metadata list
+2020-01-22 06:02:12.770 838-1089   E WARING: [ERROR][HAL    ] camxmetadatapool.cpp:1720 PublishMetadataList() Invalid slot, cannot publish metadata list
